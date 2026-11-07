@@ -1,0 +1,98 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Press kit — Kinovoice</title><meta name="description" content="Kinovoice press kit: what we cover, audience and figures, sample publications, work for other outlets, accreditation contacts and assets."><link rel="canonical" href="https://kinovoice.com/en/press/"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="generator" content="Astro v7.4.5"><meta name="yandex-verification" content="7b0b65d548ed1e69"><meta name="google-site-verification" content="sEYtooqVvI3a8Z-FzPvukwuHr4cc-aqM_AekYUM7qnk"><meta name="msvalidate.01" content="CBCFAA927893C7ABBAA1D507E34D165B"><meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff"><meta name="theme-color" media="(prefers-color-scheme: dark)" content="#0f0f10"><script>
+      // Применяем сохранённую тему до первой отрисовки, чтобы страница не мигала.
+      try {
+        var theme = localStorage.getItem('kinovoice-theme');
+        if (theme === 'light' || theme === 'dark') document.documentElement.setAttribute('data-theme', theme);
+      } catch (e) {}
+    </script><link rel="icon" href="/favicon.ico" sizes="32x32"><link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="icon" type="image/png" sizes="48x48" href="/icons/icon-48.png"><link rel="icon" type="image/png" sizes="96x96" href="/icons/icon-96.png"><link rel="icon" type="image/png" sizes="120x120" href="/icons/icon-120.png"><link rel="icon" type="image/png" sizes="144x144" href="/icons/icon-144.png"><link rel="apple-touch-icon" href="/icons/apple-touch-icon.png"><link rel="manifest" href="/site.webmanifest"><link rel="preload" href="/fonts/golos-text-cyrillic.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="/fonts/golos-text-latin.woff2" as="font" type="font/woff2" crossorigin><link rel="alternate" type="application/rss+xml" title="Kinovoice — reviews" href="https://kinovoice.com/en/rss.xml"><link rel="alternate" hreflang="ru" href="https://kinovoice.com/press/"><link rel="alternate" hreflang="en" href="https://kinovoice.com/en/press/"><link rel="alternate" hreflang="x-default" href="https://kinovoice.com/press/"><meta property="og:type" content="website"><meta property="og:site_name" content="Kinovoice"><meta property="og:title" content="Press kit"><meta property="og:description" content="Kinovoice press kit: what we cover, audience and figures, sample publications, work for other outlets, accreditation contacts and assets."><meta property="og:url" content="https://kinovoice.com/en/press/"><meta property="og:locale" content="en_GB"><meta property="og:locale:alternate" content="ru_RU"><meta property="og:image" content="https://kinovoice.com/og/en/default.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:alt" content="Press kit"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Press kit"><meta name="twitter:description" content="Kinovoice press kit: what we cover, audience and figures, sample publications, work for other outlets, accreditation contacts and assets."><meta name="twitter:image" content="https://kinovoice.com/og/en/default.jpg"><meta name="author" content="Betsy Isakova"><div class="consent" data-consent data-counter="114112586" data-webvisor="0" role="dialog" aria-live="polite" aria-label="Cookie consent" hidden><p>We use cookies and Yandex Metrica to see which texts are read. The counter stays off until you agree. <a href="/en/privacy/">Learn more</a></p><div class="row"><button class="button button-sm" type="button" data-consent-accept>Accept</button><button class="button button-ghost button-sm" type="button" data-consent-decline>Decline</button></div></div><script>
+      (function () {
+        var KEY = 'kinovoice-consent';
+        var box = document.querySelector('[data-consent]');
+        if (!box) return;
+        var counter = Number(box.getAttribute('data-counter'));
+        var webvisor = box.getAttribute('data-webvisor') === '1';
+        var active = false;
+
+        function read() {
+          try { return localStorage.getItem(KEY); } catch (e) { return null; }
+        }
+        function save(value) {
+          try { localStorage.setItem(KEY, value); } catch (e) {}
+        }
+
+        function goal(name, params) {
+          if (!active || !window.ym || !name) return;
+          window.ym(counter, 'reachGoal', name, params || undefined);
+        }
+
+        // data-goal-place="cta" → { place: 'cta' }
+        function paramsOf(el) {
+          var params = {};
+          var found = false;
+          for (var i = 0; i < el.attributes.length; i++) {
+            var attr = el.attributes[i];
+            if (attr.name.indexOf('data-goal-') === 0) { params[attr.name.slice(10)] = attr.value; found = true; }
+          }
+          return found ? params : undefined;
+        }
+
+        function onClick(event) {
+          var target = event.target;
+          if (!target || !target.closest) return;
+          var marked = target.closest('[data-goal]');
+          if (marked) { goal(marked.getAttribute('data-goal'), paramsOf(marked)); return; }
+          var link = target.closest('a[href]');
+          if (!link) return;
+          var href = link.getAttribute('href') || '';
+          if (/^https?:\/\/(t\.me|telegram\.me)\//.test(href)) goal('telegram', { place: 'text', href: href });
+          else if (/\/rss\.xml$/.test(href)) goal('rss');
+        }
+
+        function watchReadEnd() {
+          var marker = document.querySelector('[data-read-end]');
+          if (!marker || !('IntersectionObserver' in window)) return;
+          var observer = new IntersectionObserver(function (entries) {
+            for (var i = 0; i < entries.length; i++) {
+              if (entries[i].isIntersecting) { goal('read_end'); observer.disconnect(); return; }
+            }
+          });
+          observer.observe(marker);
+        }
+
+        function start() {
+          if (active) return;
+          active = true;
+          (function (m, e, t, r, i, k, a) {
+            m[i] = m[i] || function () { (m[i].a = m[i].a || []).push(arguments); };
+            m[i].l = 1 * new Date();
+            for (var j = 0; j < document.scripts.length; j++) { if (document.scripts[j].src === r) { return; } }
+            k = e.createElement(t); a = e.getElementsByTagName(t)[0]; k.async = 1; k.src = r; a.parentNode.insertBefore(k, a);
+          })(window, document, 'script', 'https://mc.yandex.ru/metrika/tag.js', 'ym');
+          window.ym(counter, 'init', {
+            clickmap: true,
+            // Внешние переходы и загрузки файлов — стандартные отчёты, код не нужен.
+            trackLinks: true,
+            accurateTrackBounce: true,
+            webvisor: webvisor,
+            params: { consent: 'granted' },
+          });
+          document.addEventListener('click', onClick);
+          document.addEventListener('kinovoice:goal', function (event) {
+            var detail = (event && event.detail) || {};
+            goal(detail.name, detail.params);
+          });
+          document.addEventListener('kinovoice:hit', function (event) {
+            var detail = (event && event.detail) || {};
+            if (detail.url && window.ym) window.ym(counter, 'hit', detail.url, { title: document.title });
+          });
+          watchReadEnd();
+        }
+
+        var stored = read();
+        if (stored === 'yes') { start(); return; }
+        if (stored === 'no') return;
+        box.hidden = false;
+        box.querySelector('[data-consent-accept]').addEventListener('click', function () { save('yes'); box.hidden = true; start(); });
+        box.querySelector('[data-consent-decline]').addEventListener('click', function () { save('no'); box.hidden = true; });
+      })();
+    </script><link rel="stylesheet" href="/_astro/Base.6RDCntUj.css"></head><body><header class="masthead"><div class="container masthead-top"><a class="masthead-side" href="/en/about/">About</a><a class="wordmark" href="/en/" rel="home" aria-label="Kinovoice">Kinovoice<span class="dot">.</span></a><div class="masthead-side masthead-tools"><a class="search-link" href="/en/search/" aria-label="Search" title="Search"><svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"></circle><path d="M15.6 15.6 21 21" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"></path></svg><span>Search</span></a><a href="/press/" hreflang="ru" lang="ru">Русский</a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch between light and dark theme" title="Switch between light and dark theme"><span class="icon-moon" aria-hidden="true">☾</span><span class="icon-sun" aria-hidden="true">☀</span></button></div></div><nav class="rubric-nav" aria-label="Sections"><div class="container rubric-nav-inner"><a href="/en/films/">Films</a><a href="/en/series/">Series</a><a href="/en/theatre/">Theatre</a><a href="/en/books/">Books</a><a href="/en/notes/">Notes</a><a href="/en/coming-soon/">Coming soon</a><a href="/en/partners/">Elsewhere</a></div></nav></header><script type="module">var e=document.documentElement;document.querySelectorAll(`[data-theme-toggle]`).forEach(t=>{t.addEventListener(`click`,()=>{let t=(e.getAttribute(`data-theme`)??(window.matchMedia(`(prefers-color-scheme: dark)`).matches?`dark`:`light`))===`light`?`dark`:`light`;e.setAttribute(`data-theme`,t);try{localStorage.setItem(`kinovoice-theme`,t)}catch{}})});</script><main><article class="container"><header class="page-head"><span class="chip chip-soft">Press kit</span><h1 style="margin-top: 0.6rem">Press kit</h1></header><div class="prose" style="max-width: var(--measure)"><h2>About the publication</h2><p>Kinovoice is an independent online publication on film, series and theatre. We publish reviews of festival and theatrical premieres, coverage of series and streaming, theatre and book reviews and festival notes. The main language is Russian; the texts are also published in English translation.</p><p>Editor-in-chief: <a href="/en/author/betsy-isakova/">Betsy Isakova</a>, a film critic and media manager who contributes to Kinopoisk, Okko, The Blueprint and RBC Style and produced Kinopoisk’s film podcast Krupnym Planom (“Close-Up”) for almost three years. The publication grew out of her Telegram channel kino_voice.</p><h2>Audience and figures</h2><table><tbody><tr><th scope="row">Telegram channel subscribers</th><td>3,600</td></tr><tr><th scope="row">Average post reach on Telegram</th><td>500–750</td></tr><tr><th scope="row">Channel founded</th><td>May 2023</td></tr><tr><th scope="row">Texts on the site</th><td>174</td></tr><tr><th scope="row">Frequency</th><td>2–3 texts a week</td></tr><tr><th scope="row">Texts for other outlets</th><td>46</td></tr><tr><th scope="row">Languages</th><td>Russian; English translations at /en/</td></tr><tr><th scope="row">Sections</th><td>films, series, theatre, books, notes</td></tr></tbody></table><p class="muted">Site traffic statistics are available on request for accreditation purposes.</p><h2>Sample publications</h2><p>Three texts in Russian and the latest English translations.</p><ul><li><a href="https://kinovoice.com/reviews/minotavr-2026/">«Минотавр»: когда отравленный воздух становится главным героем</a> <span class="muted">(3 November 2026, in Russian)</span> · <a href="https://kinovoice.com/en/reviews/minotavr-2026/" hreflang="en" lang="en">English translation</a></li><li><a href="https://kinovoice.com/reviews/trudno-byt-bogom-serial/">«Трудно быть богом»: первая серия без пафоса и финал, до которого стоит дойти</a> <span class="muted">(2 September 2026, in Russian)</span> · <a href="https://kinovoice.com/en/reviews/trudno-byt-bogom-serial/" hreflang="en" lang="en">English translation</a></li><li><a href="https://kinovoice.com/reviews/bitva-motorov-2026/">«Битва моторов»: эскапизм «Серебряных коньков» и драйв «F1»</a> <span class="muted">(11 October 2026, in Russian)</span> · <a href="https://kinovoice.com/en/reviews/bitva-motorov-2026/" hreflang="en" lang="en">English translation</a></li><li><a href="https://kinovoice.com/en/reviews/minotavr-2026/">Minotaur: When Poisoned Air Becomes the Protagonist</a> <span class="muted">(3 November 2026)</span></li><li><a href="https://kinovoice.com/en/reviews/zerkalo-teatr-vnutri/">Mirror at the Vnutri Theatre: A Detective Cabaret That Isn’t a Cabaret</a> <span class="muted">(27 October 2026)</span></li><li><a href="https://kinovoice.com/en/reviews/pletenyy-muzh-2026/">Wicker: The Fairy Tale We Deserve</a> <span class="muted">(24 October 2026)</span></li></ul><p><a href="https://kinovoice.com/en/">All reviews</a> · <a href="https://kinovoice.com/en/rss.xml" data-goal="rss">RSS</a></p><h2>Work for other outlets</h2><p>Between December 2023 and September 2026 Betsy Isakova published 46 texts in other outlets: year-end lists, festival line-up coverage, reviews and interviews. The full list with links is in the <a href="/en/partners/">Published elsewhere</a> section.</p><table><tbody><tr><th scope="row"><a href="https://www.kinopoisk.ru/media/" rel="noopener">Kinopoisk</a></th><td>34 texts, December 2023 — September 2026</td></tr><tr><th scope="row"><a href="https://style.rbc.ru/" rel="noopener">RBC Style</a></th><td>6 texts, December 2025 — June 2026</td></tr><tr><th scope="row"><a href="https://theblueprint.ru/" rel="noopener">The Blueprint</a></th><td>5 texts, December 2024 — August 2026</td></tr><tr><th scope="row"><a href="https://daily.afisha.ru/" rel="noopener">Afisha Daily</a></th><td>1 text, May 2026</td></tr></tbody></table><h2>What we do</h2><ul><li>Reviews of festival and theatrical premieres</li><li>Series and streaming coverage</li><li>Reviews of theatre premieres</li><li>Interviews with actors, directors and series creators</li><li>Festival notes and line-up coverage</li></ul><h2>Contacts</h2><dl class="facts"><dt>Accreditation and screenings</dt><dd><a href="mailto:press@kinovoice.com">press@kinovoice.com</a></dd><dt>Editor-in-chief</dt><dd><a href="https://t.me/betsy_is" rel="noopener" data-goal="telegram" data-goal-place="press">@betsy_is</a> <span class="muted">(Betsy Isakova, Telegram)</span></dd><dt>Telegram channel</dt><dd><a href="https://t.me/kino_voice" rel="noopener" data-goal="telegram" data-goal-place="press">@kino_voice</a></dd><dt>Website</dt><dd><a href="https://kinovoice.com/">kinovoice.com</a></dd></dl><h2>Assets</h2><ul><li><a href="/press/kinovoice-press-kit-ru.pdf" download>One-page press kit, Russian (PDF)</a></li><li><a href="/press/kinovoice-press-kit-en.pdf" download>One-page press kit, English (PDF)</a></li><li><a href="/press/kinovoice-logo.svg" download>Logo (SVG)</a></li></ul></div></article></main><footer class="site-footer"><div class="container footer-grid"><div><span class="wordmark">Kinovoice<span class="dot">.</span></span><p>Kinovoice is an independent publication on film, series and theatre: reviews and essays that grew out of the Telegram channel kino_voice.</p></div><div><h2 class="footer-heading">Sections</h2><ul><li><a href="/en/films/">Films</a></li><li><a href="/en/series/">Series</a></li><li><a href="/en/theatre/">Theatre</a></li><li><a href="/en/books/">Books</a></li><li><a href="/en/notes/">Notes</a></li><li><a href="/en/coming-soon/">Coming soon</a></li><li><a href="/en/partners/">Elsewhere</a></li></ul></div><div><h2 class="footer-heading">Publication</h2><ul><li><a href="/en/about/">About</a></li><li><a href="/en/author/betsy-isakova/">Author</a></li><li><a href="/en/press/">Press</a></li><li><a href="/en/privacy/">Privacy</a></li></ul></div><div><h2 class="footer-heading">Subscribe</h2><ul><li><a href="https://t.me/kino_voice" rel="me noopener" data-goal="telegram" data-goal-place="footer">Telegram @kino_voice</a></li><li><a href="https://www.kinopoisk.ru/user/kino_voice/" rel="me noopener">Kinopoisk profile</a></li></ul></div></div><div class="container footer-bottom">© 2026 Kinovoice · Betsy Isakova. All rights reserved.</div></footer></body></html>
