@@ -1,0 +1,88 @@
+# Kinovoice (Киновойс) — English edition
+
+> Kinovoice is an independent publication on film, series and theatre: reviews and essays that grew out of the Telegram channel kino_voice. All texts are written by film critic Betsy Isakova. The main language is Russian; the English edition consists of translations of the Russian texts, each linked to its original.
+
+The site is static; all text is in the HTML without JavaScript. Every text has publication and update dates, schema.org markup (Review, Article, Movie/TVSeries) and a canonical URL. When quoting, credit the author (Betsy Isakova) and link to the page. Press contact: press@kinovoice.com.
+
+## About
+
+- [About](https://kinovoice.com/en/about/): what Kinovoice is
+- [Author: Betsy Isakova](https://kinovoice.com/en/author/betsy-isakova/): biography, profiles, all texts
+- [Press kit](https://kinovoice.com/en/press/): press kit, figures, accreditation contacts
+- [Telegram](https://t.me/kino_voice): the channel where texts appear first
+
+## Sections
+
+- [Films](https://kinovoice.com/en/films/): Film reviews: festival premieres, new releases and films worth revisiting.
+- [Series](https://kinovoice.com/en/series/): Series: what to binge and what to drop after the pilot.
+- [Theatre](https://kinovoice.com/en/theatre/): Theatre: premieres, long-running productions and directors to follow.
+- [Books](https://kinovoice.com/en/books/): Books on cinema and beyond.
+- [Notes](https://kinovoice.com/en/notes/): Notes in the margins: festivals, the industry, film music and everything else.
+- [Elsewhere](https://kinovoice.com/en/partners/): Texts by Betsy Isakova for other publications. Links lead to the partners’ sites.
+- [Tags](https://kinovoice.com/en/tags/): Russian cinema, series, drama, comedy, festivals, books, animation, crime, thriller, horror, notes, science fiction
+
+## Representative texts
+
+- [“Minotaur” (2026): review by Betsy Isakova](https://kinovoice.com/en/reviews/minotavr-2026/): If the phrase “poisoned air” ever needs a visualisation, Minotaur can safely be cited as the perfect example. In September 2022, Gleb, a businessman in a provincial city, is ordered to pick fourteen of his own employees for mobilisation.
+- [“Hard to Be a God” (series, 2026): review](https://kinovoice.com/en/reviews/trudno-byt-bogom-serial/): The first episode of Hard to Be a God has an absolutely wonderful aura: none of the knock-you-off-your-feet bombast that is traditional for Russian fantasy.
+- [“Race to Monte Carlo” (2026): review](https://kinovoice.com/en/reviews/bitva-motorov-2026/): Race to Monte Carlo has managed to recapture the unique escapist mood of Silver Skates and at the same time to outdo F1 in the drive of its racing scenes. And all this with an almost fairy-tale narrative, which here even works to its advantage.
+
+## Recent texts
+
+- [“Rare” (2026): review by Betsy Isakova](https://kinovoice.com/en/reviews/redkie-2026/): In the film, rehearsal excerpts alternate with at-home episodes of getting to know the families taking part in the shoot, so the atmosphere is as warm and sincere as can be, and the pace doesn’t let you get bored.
+- [“Minotaur” (2026): the final shot](https://kinovoice.com/en/reviews/minotavr-2026-finalnyy-kadr/): A colossal effect achieved with minimal tools — real cinema, like Minotaur as a whole.
+- [GTA VI and the Skill of a Thoughtful Viewer](https://kinovoice.com/en/reviews/gta-vi-navyk-vdumchivogo-zritelya/): Working as a film critic, I spent years honing the skill of a thoughtful viewer for exactly this moment. In the photo: the Grand Theft Auto VI title screen.
+- [“Ayda!” (series, 2026): review by Betsy Isakova](https://kinovoice.com/en/reviews/ayda-serial/): All in all, the story certainly deserves attention; it just ought to be judged by laws other than those instilled in us by the series that pioneered the word ‘chushpan’.
+- [“My Friend AI” (series, 2026): review](https://kinovoice.com/en/reviews/moy-drug-ii-serial/): The story of artificial intelligence in the service of a good guy is very brisk and good-naturedly naive to watch, which is sometimes exactly what is needed.
+- [“Heads of State” (2025): review by Betsy Isakova](https://kinovoice.com/en/reviews/glavy-gosudarstv-2025/): Naishuller’s latest is not bad: Heads of State with John Cena and Idris Elba. The action film is fun, but with its reservations.
+- [Niche Films to Watch on Holiday](https://kinovoice.com/en/reviews/podborka-kino-dlya-otpuska/): A short list of what I watched and rewatched on a beach holiday: The Impossible, The Godfather, The Devil’s Advocate and Our Oceans.
+- [“Mirror” (stage production, 2026): review](https://kinovoice.com/en/reviews/zerkalo-teatr-vnutri/): Recently I was lucky enough to get into a production with Savva Savelyev and Pavel Tabakov called Mirror. The theatre-space Vnutri describes its genre as a detective cabaret, but here I would disagree: it is more of a cabaret with notes of armageddon.
+- [“Wicker” (2026): review by Betsy Isakova](https://kinovoice.com/en/reviews/pletenyy-muzh-2026/): Wicker is, literally, the fairy tale we deserve. This parable about how it is best to live by your own wits has a very compact yet expressive language.
+- [“Yaga” (series, 2026): review by Betsy Isakova](https://kinovoice.com/en/reviews/yaga-serial/): This is a very solid, very compact supernatural mystery. For a gloomy autumn it is downright perfect.
+- [“The Seventh Player” (series, 2026): review](https://kinovoice.com/en/reviews/sedmoy-igrok-serial/): Judging by the first episode, the main feeling so far is one of bustle. This time Anton Lapenko has mostly been given “himself in the given circumstances” to play.
+- [“Yaga” (book, 2019): review by Betsy Isakova](https://kinovoice.com/en/reviews/yaga-pesa/): In Kat Sandler’s play the Baba Yaga we know is not an exotic souvenir on the shelf of Canadian drama but a full-blooded, contemporary heroine.
+- [“Half-Life” (series, 2026): review](https://kinovoice.com/en/reviews/poluraspad-serial/): A story about nuclear tests in the USSR is well served by events unfolding in two eras in parallel.
+- [“The Forest” (2025): review by Betsy Isakova](https://kinovoice.com/en/reviews/les-khranitel-zhizni-2025/): In Russian cinemas from 15 October, The Forest (Les. Khranitel zhizni) is a feature-length meditative canvas with the most breathtaking views of woodlands and their inhabitants.
+- [“You’ve Got Mail” (1998): review](https://kinovoice.com/en/reviews/vam-pismo-1998/): If you increasingly feel like watching something autumnally cosy, let me remind you of You’ve Got Mail with Tom Hanks and Meg Ryan.
+
+## All texts and machine-readable formats
+
+- [llms-full.txt](https://kinovoice.com/en/llms-full.txt): all 181 published English texts in Markdown
+- [Sitemap](https://kinovoice.com/sitemap-index.xml): sitemap with lastmod dates and hreflang alternates
+- [RSS](https://kinovoice.com/en/rss.xml): full-text feed of the latest texts
+- [Русская версия](https://kinovoice.com/llms.txt): the Russian original edition, same format
+
+## Optional
+
+- [Elsewhere](https://kinovoice.com/en/partners/): Texts by Betsy Isakova for other publications. Links lead to the partners’ sites.
+- [Privacy policy](https://kinovoice.com/en/privacy/)
+- [Tag: Russian cinema](https://kinovoice.com/en/tags/russian-cinema/): 79 texts
+- [Tag: series](https://kinovoice.com/en/tags/series/): 60 texts
+- [Tag: drama](https://kinovoice.com/en/tags/drama/): 34 texts
+- [Tag: comedy](https://kinovoice.com/en/tags/comedy/): 26 texts
+- [Tag: festivals](https://kinovoice.com/en/tags/festivals/): 20 texts
+- [Tag: books](https://kinovoice.com/en/tags/books/): 11 texts
+- [Tag: animation](https://kinovoice.com/en/tags/animation/): 10 texts
+- [Tag: crime](https://kinovoice.com/en/tags/crime/): 10 texts
+- [Tag: thriller](https://kinovoice.com/en/tags/thriller/): 10 texts
+- [Tag: horror](https://kinovoice.com/en/tags/horror/): 8 texts
+- [Tag: notes](https://kinovoice.com/en/tags/notes/): 8 texts
+- [Tag: science fiction](https://kinovoice.com/en/tags/science-fiction/): 8 texts
+- [Tag: adaptation](https://kinovoice.com/en/tags/adaptation/): 7 texts
+- [Tag: rewatch](https://kinovoice.com/en/tags/rewatch/): 7 texts
+- [Tag: documentary](https://kinovoice.com/en/tags/documentary/): 6 texts
+- [Tag: mystery](https://kinovoice.com/en/tags/mystery/): 6 texts
+- [Tag: sport](https://kinovoice.com/en/tags/sport/): 6 texts
+- [Tag: theatre](https://kinovoice.com/en/tags/theatre/): 6 texts
+- [Tag: analysis](https://kinovoice.com/en/tags/analysis/): 5 texts
+- [Tag: dramedy](https://kinovoice.com/en/tags/dramedy/): 5 texts
+- [Tag: fairy tales](https://kinovoice.com/en/tags/fairy-tales/): 5 texts
+- [Tag: music](https://kinovoice.com/en/tags/music/): 5 texts
+- [Tag: biopic](https://kinovoice.com/en/tags/biopic/): 4 texts
+- [Tag: blockbuster](https://kinovoice.com/en/tags/blockbuster/): 4 texts
+- [Tag: fantasy](https://kinovoice.com/en/tags/fantasy/): 4 texts
+- [Tag: announcements](https://kinovoice.com/en/tags/announcements/): 3 texts
+- [Tag: comics](https://kinovoice.com/en/tags/comics/): 3 texts
+- [Tag: family](https://kinovoice.com/en/tags/family/): 3 texts
+- [Tag: interview](https://kinovoice.com/en/tags/interview/): 3 texts
+- [Tag: rom-com](https://kinovoice.com/en/tags/rom-com/): 3 texts
