@@ -1,0 +1,123 @@
+# Kinovoice (Киновойс) — English edition
+
+> Kinovoice is an independent media outlet on film, series and theatre, with a focus on Russian cinema. Reviews by Betsy Isakova, translated from Russian. Everything is written by film critic Betsy Isakova. The main language is Russian; the English edition consists of translations of the Russian originals, each linked to its source.
+
+The site is static; all text is in the HTML without JavaScript. Every text has publication and update dates, schema.org markup (Review, Article, Movie/TVSeries) and a canonical URL. When quoting, credit the author (Betsy Isakova) and link to the page. Press contact: press@kinovoice.com.
+
+## About
+
+- [About](https://kinovoice.com/en/about/): what Kinovoice is
+- [Author: Betsy Isakova](https://kinovoice.com/en/author/betsy-isakova/): biography, profiles, all articles
+- [Press kit](https://kinovoice.com/en/press/): press kit, figures, accreditation contacts
+- [Telegram](https://t.me/kino_voice): the channel where posts appear first
+- [YouTube](https://www.youtube.com/channel/UChFqRufNZRsuKoDA2M0QDrw): Kinovoice videos, in Russian
+- [VK](https://vk.ru/kino_voice): community with the channel’s posts and videos, in Russian
+
+## Sections
+
+- [Russian films, series and theatre](https://kinovoice.com/en/russian-cinema/): reviews of Russian films, series and stage productions by type and year of release, with English and original titles and directors
+- [Films](https://kinovoice.com/en/films/): Film reviews: festival premieres, new releases and classics worth revisiting.
+- [Series](https://kinovoice.com/en/series/): Series: what not to miss and what to look out for while watching.
+- [Theatre](https://kinovoice.com/en/theatre/): Theatre: premieres, long-running productions and directors to follow.
+- [Books](https://kinovoice.com/en/books/): Books on cinema and beyond.
+- [Notes](https://kinovoice.com/en/notes/): Notes in the margins: festivals, the industry, film music and everything else.
+- [Elsewhere](https://kinovoice.com/en/partners/): Betsy Isakova’s writing for other publications. Links go to the publishers’ sites.
+- [Tags](https://kinovoice.com/en/tags/): Russian cinema, series, notes, drama, comedy, books, festivals, dramedy, list, crime, thriller, American cinema
+
+## Representative articles
+
+- [Minotaur (2026): Russian film review](https://kinovoice.com/en/reviews/minotavr-2026/): If the phrase “poisoned air” ever needs to be visualised, you can safely point to Minotaur as the perfect example.
+- [Hard to Be a God (2026): Russian series review](https://kinovoice.com/en/reviews/trudno-byt-bogom-serial/): The first episode of Hard to Be a God has an absolutely wonderful aura: none of the knock-you-flat bombast that is traditional for Russian fantasy.
+- [Race to Monte Carlo (2026): Russian film review](https://kinovoice.com/en/reviews/bitva-motorov-2026/): Race to Monte Carlo recaptures the singular escapist mood of Silver Skates and at the same time outdoes F1 for sheer drive in its racing scenes. And all this with an almost fairy-tale story, which here actually works in its favour.
+
+## Recent articles
+
+- [“Volchek” (2026): review by Betsy Isakova](https://kinovoice.com/en/reviews/volchek-2026/): And that kind of stoic attitude to a circumstance that turns you into a different person really appeals to me — it may well be one of the most important skills in life, in any era.
+- [“Enchanted” (series, 2026): review](https://kinovoice.com/en/reviews/ocharovannye-serial/): This series about the two daughters of the sorceress Yadviga (Elena Podkaminskaya), one of whom has to be rescued from the world of the dead, has a very charming sense of humour.
+- [Video: How Ayda! Differs from The Boy’s Word](https://kinovoice.com/en/reviews/video-ayda-i-slovo-patsana/): Three things Ayda! does completely differently, one where The Boy’s Word remains out of reach, and the true story of the Tyap-Lyap gang: what the series took from real life.
+- [Severe Luxury (2026): Russian series review](https://kinovoice.com/en/reviews/tyazhyolyy-lyuks-serial/): This is exactly the kind of show you can put on and get hooked on without the slightest pang of guilt — because there is plenty here to get hooked on.
+- [GTA VI’s Story: The Off Campus of Video Games](https://kinovoice.com/en/reviews/syuzhet-gta-vi/): In short, it’s really strong dramatic writing, which now lets you feel for the characters not out of the mere thrill of the game but out of human involvement, as in a good film.
+- [Rare (Redkie, 2026): Russian documentary review](https://kinovoice.com/en/reviews/redkie-2026/): In the film, excerpts from rehearsals alternate with scenes at home in which we get to know the families who took part in the filming, so the atmosphere is as warm and sincere as can be, and the pace never lets you get bored.
+- [Minotaur (2026): the final shot](https://kinovoice.com/en/reviews/minotavr-2026-finalnyy-kadr/): An enormous effect achieved with the simplest of means — real cinema, like the whole of Minotaur.
+- [GTA VI and the Skill of Thoughtful Viewing](https://kinovoice.com/en/reviews/gta-vi-navyk-vdumchivogo-zritelya/): As a film critic, I’ve spent years honing the skill of thoughtful viewing for exactly this moment. Pictured: the Grand Theft Auto VI title screen.
+- [Ayda! (2026): Russian crime series review](https://kinovoice.com/en/reviews/ayda-serial/): All in all, the story certainly deserves attention; it just ought to be judged by laws other than those instilled in us by the series that introduced the word ‘chushpan’.
+- [My Friend AI (2026): Russian series review](https://kinovoice.com/en/reviews/moy-drug-ii-serial/): This story of artificial intelligence in the service of a good guy is a very brisk and good-naturedly naive watch, which is sometimes just the thing.
+- [“Heads of State” (2025): review by Betsy Isakova](https://kinovoice.com/en/reviews/glavy-gosudarstv-2025/): Naishuller’s latest isn’t bad: Heads of State, with John Cena and Idris Elba. It’s a fun action film, though it comes with its caveats.
+- [Niche Films to Watch on Holiday](https://kinovoice.com/en/reviews/podborka-kino-dlya-otpuska/): A short list of what I watched and rewatched on my beach holiday: The Impossible, The Godfather, The Devil’s Advocate and Our Oceans.
+- [“Mirror” (stage production, 2025): review](https://kinovoice.com/en/reviews/zerkalo-teatr-vnutri/): The plot is based half on Heinrich Böll’s story “Murke’s Collected Silences” and half on Kurt Vonnegut’s novel Slaughterhouse-Five. It left a colossal impression.
+- [“Wicker” (2026): review by Betsy Isakova](https://kinovoice.com/en/reviews/pletenyy-muzh-2026/): Wicker is, quite literally, the fairy tale we deserve. This parable about how it is best to live by your own lights speaks a very economical yet expressive language.
+- [“Yaga” (series, 2026): review by Betsy Isakova](https://kinovoice.com/en/reviews/yaga-serial/): This is a very solid, very tight supernatural mystery. For a gloomy autumn it’s downright ideal.
+
+## All articles and machine-readable formats
+
+- [llms-full.txt](https://kinovoice.com/en/llms-full.txt): all 394 published English articles in Markdown
+- [Sitemap](https://kinovoice.com/sitemap-index.xml): sitemap with lastmod dates and hreflang alternates
+- [RSS](https://kinovoice.com/en/rss.xml): full-text feed of the latest articles
+- [Русская версия](https://kinovoice.com/llms.txt): the Russian original edition, same format
+
+## Optional
+
+- [Elsewhere](https://kinovoice.com/en/partners/): Betsy Isakova’s writing for other publications. Links go to the publishers’ sites.
+- [Privacy policy](https://kinovoice.com/en/privacy/)
+- [Tag: Russian cinema](https://kinovoice.com/en/tags/russian-cinema/): 199 articles
+- [Tag: series](https://kinovoice.com/en/tags/series/): 140 articles
+- [Tag: notes](https://kinovoice.com/en/tags/notes/): 63 articles
+- [Tag: drama](https://kinovoice.com/en/tags/drama/): 58 articles
+- [Tag: comedy](https://kinovoice.com/en/tags/comedy/): 56 articles
+- [Tag: books](https://kinovoice.com/en/tags/books/): 26 articles
+- [Tag: festivals](https://kinovoice.com/en/tags/festivals/): 23 articles
+- [Tag: dramedy](https://kinovoice.com/en/tags/dramedy/): 20 articles
+- [Tag: list](https://kinovoice.com/en/tags/list/): 20 articles
+- [Tag: crime](https://kinovoice.com/en/tags/crime/): 19 articles
+- [Tag: thriller](https://kinovoice.com/en/tags/thriller/): 19 articles
+- [Tag: American cinema](https://kinovoice.com/en/tags/american-cinema/): 18 articles
+- [Tag: announcements](https://kinovoice.com/en/tags/announcements/): 18 articles
+- [Tag: adaptation](https://kinovoice.com/en/tags/adaptation/): 16 articles
+- [Tag: animation](https://kinovoice.com/en/tags/animation/): 15 articles
+- [Tag: documentary](https://kinovoice.com/en/tags/documentary/): 14 articles
+- [Tag: interview](https://kinovoice.com/en/tags/interview/): 14 articles
+- [Tag: science fiction](https://kinovoice.com/en/tags/science-fiction/): 14 articles
+- [Tag: industry](https://kinovoice.com/en/tags/industry/): 13 articles
+- [Tag: sport](https://kinovoice.com/en/tags/sport/): 12 articles
+- [Tag: horror](https://kinovoice.com/en/tags/horror/): 11 articles
+- [Tag: rewatch](https://kinovoice.com/en/tags/rewatch/): 11 articles
+- [Tag: family](https://kinovoice.com/en/tags/family/): 10 articles
+- [Tag: fantasy](https://kinovoice.com/en/tags/fantasy/): 10 articles
+- [Tag: analysis](https://kinovoice.com/en/tags/analysis/): 9 articles
+- [Tag: film history](https://kinovoice.com/en/tags/film-history/): 9 articles
+- [Tag: music](https://kinovoice.com/en/tags/music/): 9 articles
+- [Tag: New Year](https://kinovoice.com/en/tags/new-year/): 9 articles
+- [Tag: world cinema](https://kinovoice.com/en/tags/world-cinema/): 9 articles
+- [Tag: mystery](https://kinovoice.com/en/tags/mystery/): 8 articles
+- [Tag: pop culture](https://kinovoice.com/en/tags/pop-culture/): 8 articles
+- [Tag: rom-com](https://kinovoice.com/en/tags/rom-com/): 8 articles
+- [Tag: theatre](https://kinovoice.com/en/tags/theatre/): 8 articles
+- [Tag: biopic](https://kinovoice.com/en/tags/biopic/): 7 articles
+- [Tag: fairy tales](https://kinovoice.com/en/tags/fairy-tales/): 7 articles
+- [Tag: historical](https://kinovoice.com/en/tags/historical/): 7 articles
+- [Tag: road movie](https://kinovoice.com/en/tags/road-movie/): 7 articles
+- [Tag: short films](https://kinovoice.com/en/tags/short-films/): 7 articles
+- [Tag: Soviet cinema](https://kinovoice.com/en/tags/soviet-cinema/): 7 articles
+- [Tag: black comedy](https://kinovoice.com/en/tags/black-comedy/): 6 articles
+- [Tag: melodrama](https://kinovoice.com/en/tags/melodrama/): 6 articles
+- [Tag: blockbuster](https://kinovoice.com/en/tags/blockbuster/): 5 articles
+- [Tag: European cinema](https://kinovoice.com/en/tags/european-cinema/): 5 articles
+- [Tag: festival films](https://kinovoice.com/en/tags/festival-films/): 5 articles
+- [Tag: Moscow](https://kinovoice.com/en/tags/moscow/): 5 articles
+- [Tag: musical](https://kinovoice.com/en/tags/musical/): 5 articles
+- [Tag: sitcom](https://kinovoice.com/en/tags/sitcom/): 5 articles
+- [Tag: streaming](https://kinovoice.com/en/tags/streaming/): 5 articles
+- [Tag: 1990s](https://kinovoice.com/en/tags/1990s/): 4 articles
+- [Tag: 2000s](https://kinovoice.com/en/tags/2000s/): 4 articles
+- [Tag: arthouse](https://kinovoice.com/en/tags/arthouse/): 4 articles
+- [Tag: comics](https://kinovoice.com/en/tags/comics/): 4 articles
+- [Tag: comparison](https://kinovoice.com/en/tags/comparison/): 4 articles
+- [Tag: remake](https://kinovoice.com/en/tags/remake/): 4 articles
+- [Tag: tragicomedy](https://kinovoice.com/en/tags/tragicomedy/): 4 articles
+- [Tag: action](https://kinovoice.com/en/tags/action/): 3 articles
+- [Tag: adventure](https://kinovoice.com/en/tags/adventure/): 3 articles
+- [Tag: dubbing](https://kinovoice.com/en/tags/dubbing/): 3 articles
+- [Tag: giveaways](https://kinovoice.com/en/tags/giveaways/): 3 articles
+- [Tag: Hollywood](https://kinovoice.com/en/tags/hollywood/): 3 articles
+- [Tag: podcasts](https://kinovoice.com/en/tags/podcasts/): 3 articles
+- [Tag: supernatural](https://kinovoice.com/en/tags/supernatural/): 3 articles
